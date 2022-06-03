@@ -12,4 +12,4 @@ var boneca = new Briquedos( "Boneca", 20000 );
 var carinho = new Briquedos( "carinho", 5000 );
 
 console.log( boneca.toString() );
-console.log( carinho.toString() ); 
+console.log( carinho.toString() );
